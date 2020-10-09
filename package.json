@@ -1,0 +1,22 @@
+{
+  "name": "reactintro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evillegas92/ReactIntro.git"
+  },
+  "author": "evillegas92",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evillegas92/ReactIntro/issues"
+  },
+  "homepage": "https://github.com/evillegas92/ReactIntro#readme",
+  "dependencies": {
+    "create-react-app": "^3.4.1"
+  }
+}
